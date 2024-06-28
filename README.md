@@ -2,7 +2,7 @@
 ![Iniobong's Visitors](https://komarev.com/ghpvc/?username=sammyis&color=green)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=sammygis" alt="Visitors"/>
 
-### Geospatial Analyst 📊 | Spatial Data Engineering 🗺🗺| Earth Observation Analyst 🌱🌴| 🌍 Geospatial Data Scientist
+### Geospatial Analyst 📊 | Spatial Data Engineering 🗺| Earth Observation Analyst 🛰🌱🌴| 🌍 Geospatial Data Scientist
 
 * 💻 I’m currently working on Geospatial Data Engineering Projects
 * 👨🏻‍🏫 I’m currently learning: Cloud Computing and Data Engineering
@@ -33,19 +33,19 @@
 <a href="linkedin.com/in/adedoyin-samuel-ajeyomi"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
 #### Data Engineering Stack
-- 🔭 Looker, PowerBI, Tableau
-- 🌱 Python, R, PysPark
-- 😊 Orchestration - Mageai, Airflow
+- 📊📉📈 Looker, PowerBI, Tableau
+- 🧾 Python, R, PysPark
+- ⏳ Orchestration - Mageai, Airflow
 - 🌧 GCP- Bigquery, Compute Engine, Google Function, Cloud Scheduler, Google Cloud Bucket
 - ☁ AWS - s3, Lambda, Dynamodb, Boto3
 - ⚡Automation: Terraform
 
 
 #### My Geospatial Stack
-- 🔭 GDAL/OGR, PostGIS, SpatialSQL, Duckdb, GEOAI
-- 🌱 Geopandas, Geopolar, Rasterio, Pygeoapi
+- 🏬 GDAL/OGR, PostGIS, SpatialSQL, Duckdb, GEOAI
+- 🛰 Geopandas, Geopolar, Rasterio, Pygeoapi
 - 😊 Open Source: QGIS, GRASS, GEE
-- 🔭 Commercial: ArcGIS Python API, ArcGIS Pro,ArcGIS Suites, ENVI
+- 💰 Commercial: ArcGIS Python API, ArcGIS Pro,ArcGIS Suites, ENVI
 
 ### Languages & Tools:
 <a href=""><img src=https://www.vectorlogo.zone/logos/python/python-ar21.svg width="40" height="40"/></a>
