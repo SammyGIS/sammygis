@@ -7,8 +7,6 @@
 - 💬 Ask me about ESRI, Google Earth Engine, Geospatial Data Science, anything Geospatial, Spatial Statistics, Python Geospatial, Location Intelligence
 
 
-<br/>
-
 
 <table>
     <tr>
@@ -17,7 +15,7 @@
     </tr>
     <tr>
         <td>
-            <a href="[https://spatialnode.net/sammygis"]<img src=""/>SpatialNode</a>
+            <a href="https://spatialnode.net/sammygis"<img src=""/>SpatialNode</a>
         </td>
         <td>
             <a href="https://sammygis.github.io/">🌐</a>
