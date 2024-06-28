@@ -75,7 +75,7 @@
             <img src="https://github-readme-stats.vercel.app/api?username=sammyGIS&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linibensonjr&langs_count=8&layout=compact&hide_border=true"/>                                                                 
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammygis&langs_count=8&layout=compact&hide_border=true"/>                                                                 
         </td>
     </tr>
 </table>
