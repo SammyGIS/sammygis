@@ -4,9 +4,9 @@
 
 ### Geospatial Analyst | Spatial Data Engineering | Earth Observation Analyst | Geospatial Data Scientist
 
-- 🔭 I’m currently working on Geospatial Data Engineering Projects
-- 🌱 I’m currently learning: Cloud Computing and Data Engineering
-- 💬 Ask me about anything geospatial; ESRI Tools, Modern GIS Stack, Open Source GIS, Google Earth Engine, Geospatial Data Science, Spatial Statistics, Python Geospatial, Location Intelligence
+🔭 I’m currently working on Geospatial Data Engineering Projects
+🌱 I’m currently learning: Cloud Computing and Data Engineering
+💬 Ask me about anything geospatial; ESRI Tools, Modern GIS Stack, Open Source GIS, Geospatial Data Science, Spatial Statistics, Location Intelligence
 💼 Job interests: Geospatial Data Engineer/Data Scientist (Intern or Junior level).
 📫 How to reach me via my [Email](adeedoyinsamuel25@gmail.com)
 
