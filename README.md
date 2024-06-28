@@ -2,9 +2,9 @@
 
 ### Geospatial Analyst | Spatial Data Engineering | Earth Observation Analyst | Geospatial Data Scientist
 
-- 🔭 I’m currently working on: Spatial Data Engineering
+- 🔭 I’m currently working on Geospatial Data Engineering Projects
 - 🌱 I’m currently learning: Cloud Computing and Data Engineering
-- 💬 Ask me about ESRI, Google Earth Engine, Geospatial Data Science, anything Geospatial, Spatial Statistics, Python Geospatial, Location Intelligence
+- 💬 Ask me about anything geospatial; ESRI Tools, Modern GIS Stack, Open Source GIS, Google Earth Engine, Geospatial Data Science, Spatial Statistics, Python Geospatial, Location Intelligence
 
 
 
