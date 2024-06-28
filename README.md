@@ -17,13 +17,17 @@
     <tr>
         <th>My Blog</th>
         <th>My Website</th>
+        <th>CV</th>
     </tr>
     <tr>
         <td>
-            <a href="https://spatialnode.net/sammygis"<img src=""/>SpatialNode</a>
+            <a href="https://spatialnode.net/sammygis"<img src=""/>🚀</a>
         </td>
         <td>
             <a href="https://sammygis.github.io/">🌐</a>
+        </td> 
+        <td>
+            <a href="https://sammygis.github.io/">📜</a>
         </td> 
     </tr>
 </table>
