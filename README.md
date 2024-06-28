@@ -27,7 +27,7 @@
             <a href="https://sammygis.github.io/">🌐</a>
         </td> 
         <td>
-            <a href="https://sammygis.github.io/">📜</a>
+            <a href="https://github.com/SammyGIS/sammyGIS/blob/main/Ajeyomi%20Adedoyin%20Samuel%20CV.pdf">📜</a>
         </td> 
     </tr>
 </table>
