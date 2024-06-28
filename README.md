@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: Cloud Computing and Data Engineering
 - 💬 Ask me about ESRI, Google Earth Engine, Geospatial Data Science, anything Geospatial, Spatial Statistics, Python Geospatial, Location Intelligence
 
-
+<br>
 
 <table>
     <tr>
@@ -19,8 +19,7 @@
         </td>
         <td>
             <a href="https://sammygis.github.io/">🌐</a>
-        </td>
-        
+        </td> 
     </tr>
 </table>
 
