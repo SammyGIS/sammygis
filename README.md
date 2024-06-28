@@ -2,10 +2,10 @@
 ![Iniobong's Visitors](https://komarev.com/ghpvc/?username=sammyis&color=green)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=sammygis" alt="Visitors"/>
 
-### Geospatial Analyst | Spatial Data Engineering | Earth Observation Analyst | Geospatial Data Scientist
+### Geospatial Analyst 📊 | Spatial Data Engineering 🗺🗺| Earth Observation Analyst 🌱🌴| 🌍 Geospatial Data Scientist
 
-* 🔭 I’m currently working on Geospatial Data Engineering Projects
-* 🌱 I’m currently learning: Cloud Computing and Data Engineering
+* 💻 I’m currently working on Geospatial Data Engineering Projects
+* 👨🏻‍🏫 I’m currently learning: Cloud Computing and Data Engineering
 *  💬 Ask me about anything geospatial; ESRI Tools, Modern GIS Stack, Open Source GIS, Geospatial Data Science, Spatial Statistics, Location Intelligence
 *  💼 Job interests: Geospatial Data Engineer/Data Scientist (Intern or Junior level).
 *  📫 How to reach me via my [Email](adeedoyinsamuel25@gmail.com)
