@@ -33,6 +33,7 @@
 - 😊 Orchestration - Mageai, Airflow
 - 🌧 GCP- Bigquery, Compute Engine, Google Function, Cloud Scheduler, Google Cloud Bucket
 - ☁ AWS - s3, Lambda, Dynamodb, Boto3
+- ⚡Automation: Terraform
 
 
 #### My Geospatial Stack
