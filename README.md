@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: Cloud Computing and Data Engineering
 - 💬 Ask me about ESRI, Google Earth Engine, Geospatial Data Science, anything Geospatial, Spatial Statistics, Python Geospatial, Location Intelligence
 
-<br>
+
 
 <table>
     <tr>
@@ -23,56 +23,35 @@
     </tr>
 </table>
 
-
-
 ### Contact me:
 
 <a href="linkedin.com/in/adedoyin-samuel-ajeyomi"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
-### Toolset
+#### Data Engineering Stack
+- 🔭 Looker, PowerBI, Tableau
+- 🌱 Python, R, PysPark
+- 😊 Orchestration - Mageai, Airflow
+- 🌧 GCP- Bigquery, Compute Engine, Google Function, Cloud Scheduler, Google Cloud Bucket
+- ☁ AWS - s3, Lambda, Dynamodb, Boto3
 
-<table>
-    <tr>
-        <td>Automation Tooling</td>
-        <td>
-            <a href=""><img src=https://www.vectorlogo.zone/logos/python/python-ar21.svg width="40" height="40"/></a>
-        </td>
-    </tr>
-    <tr>
-        <td>Automation Tooling</td>
-        <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/></a>
-        </td>
-    </tr>
-    <tr>
-        <td>Cloud Tools</td>
-        <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" width="40" height="40"/></a>
-            <!-- <a href=""><img src=""/></a>
-            <a href=""><img src=""/></a> -->
-        </td>
-     </tr>
-     <tr>
-        <td>Databases/Datastores</td>
-        <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" width="40" height="40"/></a>   
-        </td>
-    </tr>
-    <tr>
-        <td>IDEs</td>
-        <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/pycharm/pycharm-original.svg" width="40" height="40"/></a>
-        </td>
-    </tr>
-    
 
-</table>
+#### My Geospatial Stack
+- 🔭 GDAL/OGR, PostGIS, SpatialSQL, Duckdb, GEOAI
+- 🌱 Geopandas, Geopolar, Rasterio, Pygeoapi
+- 😊 Open Source: QGIS, GRASS, GEE
+- 🔭 Commercial: ArcGIS Python API, ArcGIS Pro,ArcGIS Suites, ENVI
 
-<br></br>
+### Languages & Tools:
+<a href=""><img src=https://www.vectorlogo.zone/logos/python/python-ar21.svg width="40" height="40"/></a>
+<a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
+<a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/pycharm/pycharm-original.svg" width="40" height="40"/></a>
+<a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/></a>
+<a href=""><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" width="40" height="40"/></a>
+<a href=""><img src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" width="40" height="40"/></a>
+a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
+<a href=""><img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" width="40" height="40"/></a> 
+
+<br>
 
 ### My GitHub Stats
 
