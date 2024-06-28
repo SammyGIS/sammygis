@@ -85,30 +85,22 @@
 
 </table>
 
-
-<br/>
-
-### Support my Work
-<br/>
-<a href="https://www.buymeacoffee.com/colinbut"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
-
-
-<br />
+<br></br>
 
 ### My GitHub Stats
 
 <table>
     <tr>
         <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=colinbut&row=3&column=4&no-bg=true"/>
+            <img src="https://github-profile-trophy.vercel.app/?username=sammyGIS&row=3&column=4&no-bg=true"/>
         </td>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=colinbut"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=sammyGIS"/>
         </td> 
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=colinbut&count_private=true&show_icons=true&theme=tokyonight"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=sammyGIS&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colinbut&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
