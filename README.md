@@ -3,8 +3,8 @@
 ### Geospatial Analyst | Spatial Data Engineering | Earth Observation Analyst
 
 - 🔭 I’m currently working on: Spatial Data Engineering
-- 🌱 I’m currently learning: Cloud Computing 
-- 💬 Ask me about ESRI, Google Earth Engine, Geospatial Data Science, anything Geospatial
+- 🌱 I’m currently learning: Cloud Computing and Data Engineering
+- 💬 Ask me about ESRI, Google Earth Engine, Geospatial Data Science, anything Geospatial, Spatial Statistics, Python Geospatial
 
 
 <br/>
@@ -17,7 +17,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://colin-but.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
+            <a href="[https://colin-but.medium.com/](https://spatialnode.net/sammygis"><img src="[https://www.vectorlogo.zone/logos/medium/medium-ar21.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.facebook.com%2FSpatialnode%2F&psig=AOvVaw0Gef5l_9vjyVYSPk34o5LN&ust=1719693559700000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIj94fWT_4YDFQAAAAAdAAAAABA)"/></a>
         </td>
         <td>
             <a href="https://sammygis.github.io/">🌐</a>
@@ -103,7 +103,8 @@
             <img src="https://github-readme-stats.vercel.app/api?username=sammyGIS&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colinbut&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?                                                                            
+                   username=SammyGIS&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
         </td>
     </tr>
 </table>
