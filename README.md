@@ -1,4 +1,6 @@
 # Hello there 👋, I'm Adedoyin Samuel
+![Iniobong's Visitors](https://komarev.com/ghpvc/?username=liniensonjr&color=green)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=linibensonjr.linibensonjr" alt="Visitors"/>
 
 ### Geospatial Analyst | Spatial Data Engineering | Earth Observation Analyst | Geospatial Data Scientist
 
